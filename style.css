@@ -1,0 +1,28 @@
+.hehe{
+    font-size: 35px;
+    width: 95%;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 5px 5px 5px rgb(27, 66, 100);
+}
+.hehe2{
+    font-size: 20px;
+    color: rgb(218, 218, 218);
+    text-shadow: 2px 2px 2px white;
+}
+
+.footer{
+    bottom:0;
+    position:fixed;
+    background-color: rgb(59, 59, 120);
+    color:aliceblue;
+    width:9%;
+    font-size: 10px;
+    line-height: 2;
+}
+canvas{
+    border: 10px solid rgb(34, 42, 78);
+    border-radius: 10px;
+    
+}
